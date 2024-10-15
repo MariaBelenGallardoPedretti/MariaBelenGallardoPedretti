@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hola 👋, Soy María Belén</h1>
 <h3 align="center">Me apasiona cantar, escuchar música, enseñar, estudiar y desafiarme a aprender cosas nuevas, como la tecnología.</h3>
 
@@ -7,11 +5,12 @@
 <div align="center">
  
 🌱 He finalizado mis estudios como Full Stack Developer en 4Geeks Academy, y estoy en búsqueda de nuevos cursos y aprendizajes para seguir creciendo más en este rubro.
-
-🌱 Tengo conocimientos de HTML, CSS, Bootstrap, JavaScript, React, Python, Flask, SQL, SQLAlchemy.
+<br />
+Tengo conocimientos de HTML, CSS, Bootstrap, JavaScript, React, Python, Flask, SQL, SQLAlchemy.
 
 📫 Puedes comunicarte conmigo a través de:
-📫 E-mail: belengallardop@gmail.com
+<br />
+E-mail: belengallardop@gmail.com
 
 📄 Puedes conocer más de mi accediendo a mi Currículum: 
 
