@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-<div align="center"><img width="250px" src="https://imgur.com/18ZhN1k.gif" /></div>
-
 <h1 align="center">Hola 👋, Soy María Belén</h1>
 <h3 align="center">Me apasiona cantar, escuchar música, enseñar, estudiar y desafiarme a aprender cosas nuevas, como la tecnología.</h3>
 
