@@ -6,7 +6,7 @@
  
 🌱 He finalizado mis estudios como Full Stack Developer en 4Geeks Academy, y estoy en búsqueda de nuevos cursos y aprendizajes para seguir creciendo más en este rubro.
 <br />
-Tengo conocimientos de HTML, CSS, Bootstrap, JavaScript, React, Python, Flask, SQL, SQLAlchemy.
+Tengo conocimientos de Bootstrap, JavaScript, React, Python, Flask, SQL, SQLAlchemy, entre otros
 
 📫 Puedes comunicarte conmigo a través de:
 <br />
